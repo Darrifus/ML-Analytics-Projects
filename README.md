@@ -1,5 +1,5 @@
 # ML-Analytics-Projects
 This repository contains machine learning and analytics projects that I have completed as part of various educational programs and courses. The projects showcase the application of data analysis, modeling, and visualization techniques.
-## Contents
+📁 ## Contents
 - **[Deep Learning School](./Deep%20Learning%20School/)** - The section showcases the projects completed during my DLS courses. The portfolio includes a variety of machine learning models and algorithms, ranging from classical approaches to deep learning techniques. Projects include classical machine learning models, gradient descent algorithms, neural networks, CNNs and semantic segmentation algorithms.
 - **[Generative Models](/Generative%20Models/)** - This section of the repository features projects focused on the creation of generative models. It includes implementations of various Autoencoder methods, such as VAE (pretrained and my own) and CVAE. Additionally, I have evaluated the performance of these models using the FID (Fréchet Inception Distance) metric to assess their ability to generate high-quality, realistic data.
